@@ -1,3 +1,5 @@
+// Added another comment at the top, also for Lab 6 (using clone/push)
+
 /* Numeric Conversion
  * Created by Noah Burkhart
  * Last Modified 2-11-20
