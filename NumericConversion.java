@@ -2,6 +2,8 @@
  * Created by Noah Burkhart
  * Last Modified 2-11-20
  */
+
+// Added this comment 3-9-20 for Lab 6
 import java.util.Scanner;
 public class NumericConversion {
     public static void main(String[] args) {
